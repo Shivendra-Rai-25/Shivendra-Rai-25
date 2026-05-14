@@ -32,7 +32,7 @@ Passionate about clean architecture, secure APIs, and exploring AI-augmented bac
 ---
 
 ### 📌 Pinned Projects
-
+https://github.com/Shivendra-Rai-25/career-ai
 
 
 ### 📫 Let's Connect
