@@ -33,6 +33,8 @@ Passionate about clean architecture, secure APIs, and exploring AI-augmented bac
 
 ### 📌 Pinned Projects
 https://github.com/Shivendra-Rai-25/career-ai
+
+
 https://github.com/Shivendra-Rai-25/Drowsiness-detection-system
 
 
